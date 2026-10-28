@@ -7,3 +7,6 @@
 *.o
 *.obj
 
+# Visual Studio files
+.vs/
+*.vcxproj.user
